@@ -1,0 +1,13 @@
+﻿  Source.cpp
+c:\users\danya\source\repos\cfar\cfar\source.cpp(509): warning C4244: инициализация: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+c:\users\danya\source\repos\cfar\cfar\source.cpp(589): warning C4244: инициализация: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+c:\users\danya\source\repos\cfar\cfar\source.cpp(640): warning C4551: в вызове функции отсутствует список аргументов
+  CFAR.vcxproj -> C:\Users\danya\source\repos\CFAR\x64\Debug\CFAR.exe
